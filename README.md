@@ -171,21 +171,7 @@ Task_2_Emotion_Recognition/
     └── confusion_matrix.png
 ```
 
-## How to Run
-
-### 1. Open Google Colab
-
-Upload the project notebook to Google Colab.
-
-### 2. Upload Dataset
-
-Upload:
-
-```text
-Audio_Speech_Actors_01-24_16k.zip
-```
-
-### 3. Run the Notebook
+### Run the Notebook
 
 Run the cells in order:
 
